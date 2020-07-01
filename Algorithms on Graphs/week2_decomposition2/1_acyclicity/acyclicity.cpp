@@ -1,3 +1,8 @@
+//	Detect Cycle in Directed Graph Algorithm
+//	https://www.youtube.com/watch?v=rKQaZuoUR4M
+//	Watch the above video for algorithm and the explanation
+
+
 #include<bits/stdc++.h>
 using namespace std;
 
