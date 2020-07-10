@@ -1,3 +1,7 @@
+
+// The functions toposort and dfs_visit are copied from toposort.cpp
+// Main function is not the same from provided file.
+
 #include <bits/stdc++.h>
 
 using namespace std;
