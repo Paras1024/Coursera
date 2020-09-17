@@ -1,3 +1,3 @@
 # Coursera
-## Algorithms on Graphs Solutions (C++)
-
+## Algorithms on Graphs Solutions  (C++)
+## Algorithms on Strings Solutions (C++)
